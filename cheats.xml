@@ -2,7 +2,7 @@
 <subscription>
 	<name>HTTPS Bypass</name>
 	<codelist>
-		<name>HTTP Bypass Codes - US</name>
+		<name>HTTPS Bypass Codes - US</name>
 		<game>
 			<name>Mario Kart DS</name>
 			<gameid>AMCE 59604513</gameid>
@@ -90,7 +90,7 @@
 		</game>
 		<game>
 			<name>Pokemon White</name>
-			<gameid>IRAJ 4f2fdec2</gameid>
+			<gameid>IRAO 0f0875fe</gameid>
 			<date>2016/04/23 15:02</date>
 			<cheat>
 				<name>No HTTPS</name>
