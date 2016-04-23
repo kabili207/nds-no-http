@@ -3,7 +3,7 @@
 	<name>No HTTPS Codes</name>
 	<codelist>
 		<game>
-			<name>Mario Kart</name>
+			<name>Mario Kart DS</name>
 			<gameid>AMCE 59604513</gameid>
 			<date>2016/04/16 13:09</date>
 			<cheat>
@@ -12,7 +12,7 @@
 			</cheat>
 		</game>
 		<game>
-			<name>Animal Crossing WW</name>
+			<name>Animal Crossing: Wild World</name>
 			<gameid>ADME 8f7851cb</gameid>
 			<date>2016/04/16 13:22</date>
 			<cheat>
@@ -21,7 +21,7 @@
 			</cheat>
 		</game>
 		<game>
-			<name>Metroid Prime Hunters</name>
+			<name>Metroid Prime: Hunters</name>
 			<gameid>AMHE e18d1857</gameid>
 			<date>2016/04/17 23:12</date>
 			<cheat>
@@ -30,7 +30,7 @@
 			</cheat>
 		</game>
 		<game>
-			<name>Pokemon Platinum (U)</name>
+			<name>Pokemon Platinum</name>
 			<gameid>CPUE d074d1b3</gameid>
 			<date>2016/04/17 23:13</date>
 			<cheat>
@@ -48,12 +48,39 @@
 			</cheat>
 		</game>
 		<game>
+			<name>Starfox: Command</name>
+			<gameid>ASFE f22e6a7d</gameid>
+			<date>2016/04/23 13:03</date>
+			<cheat>
+				<name>No HTTPS</name>
+				<codes>on 52030480 EE070F90 E2000200 00000046 CA02A20D 58CC4B0B D105429C 785C185B 3301701C D1FA4224 00A45E14 3202D005 D3EF1909 881403A1 4778E7F9 EE070F90 E8BD801E 2F2F3A73 D2F54B05 03D9014B 0009000A 00000000 02030480 E92D401E 02030484 FAFF3F5D D2000000 00000000 </codes>
+			</cheat>
+		</game>
+		<game>
 			<name>Pokemon Diamond</name>
 			<gameid>ADAE 636791c0</gameid>
-			<date>2016/04/22 22:08</date>
+			<date>2016/04/23 13:07</date>
 			<cheat>
 				<name>No HTTPS</name>
 				<codes>on 520CD848 EE070F90 E2000674 0000004E CA02A20D 58CC4B0B D105429C 785C185B 3301701C D1FA4224 00A45E14 3202D005 D3EF1909 881403A1 4778E7F9 EE070F90 E8BD801E 2F2F3A73 D2F18461 01200035 03270070 0009000A 0005000D 00000000 020CD848 E92D401E 020CD84C FAFCCB88 D2000000 00000000 </codes>
+			</cheat>
+		</game>
+		<game>
+			<name>Phantasy Star Online: Zero</name>
+			<gameid>C24E affc6c3</gameid>
+			<date>2016/04/23 13:21</date>
+			<cheat>
+				<name>No HTTPS</name>
+				<codes>on 5206873C EE070F90 E2000500 00000048 CA02A20D 58CC4B0B D105429C 785C185B 3301701C D1FA4224 00A45E14 3202D005 D3EF1909 881403A1 4778E7F9 EE070F90 E8BD801E 2F2F3A73 D2E0C7C1 015E0012 000A03A9 00000009 0206873C E92D401E 02068740 FAFE5F6E D2000000 00000000 </codes>
+			</cheat>
+		</game>
+		<game>
+			<name>Ragnarok DS</name>
+			<gameid>YRBE b1611873</gameid>
+			<date>2016/04/23 13:22</date>
+			<cheat>
+				<name>No HTTPS</name>
+				<codes>on 52008EA4 EE070F90 E20006BC 0000004A CA02A20D 58CC4B0B D105429C 785C185B 3301701C D1FA4224 00A45E14 3202D005 D3EF1909 881403A1 4778E7F9 EE070F90 E8BD801E 2F2F3A73 D2ED6441 015E0012 000A03A9 01CC0009 00000000 00000000 02008EA4 E92D401E 02008EA8 FAFFDE03 D2000000 00000000 </codes>
 			</cheat>
 		</game>
 	</codelist>
